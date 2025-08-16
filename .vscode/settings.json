@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "cSpell.advanced.feature.useReferenceProviderWithRename": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSaveMode": "modifications",
+  "editor.formatOnType": true
+}
